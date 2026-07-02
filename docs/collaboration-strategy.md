@@ -139,7 +139,7 @@ PostgreSQL
 | --- | --- | --- | --- |
 | Backend | 최국진 | Python, FastAPI, RQ, Redis, PostgreSQL | 서버 API 개발, DB 설계, 문서 분석, AI 연동, 음성 및 영상 분석 서버 구축 |
 | Frontend 1 | 이승현 | React Native | 발표 자료 업로드, 프로젝트 생성, 발표 대본 및 분석 결과 화면 구현 |
-| Frontend 2 | 김경민 | React Native | 발표 녹음 및 촬영, Q&A 기능, 기록 비교 화면, 프론트엔드 PR 및 병합 관리 |
+| Frontend 2 | 박경민 | React Native | 발표 녹음 및 촬영, Q&A 기능, 기록 비교 화면, 프론트엔드 PR 및 병합 관리 |
 | Common | 최국진 | 문서 및 설계 도구 | ERD, API 명세서, 화면 설계서, 개인정보처리방침, 개발 문서 관리 |
 
 ## 리포지토리 구성
