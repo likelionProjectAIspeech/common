@@ -23,9 +23,9 @@ AI 기반 교수 발표 준비 도우미 프로젝트의 공통 문서 저장소
 
 | 저장소 | 역할 |
 | --- | --- |
-| `presentation-coach-frontend` | React Native 모바일 앱 |
-| `presentation-coach-backend` | FastAPI 서버, AI 분석, 문서 분석, 비동기 작업 |
-| `presentation-coach-common` | ERD, API 명세서, 회의록, DB 설계, 협업 문서 |
+| `frontend` | React Native 모바일 앱 |
+| `backend` | FastAPI 서버, AI 분석, 문서 분석, 비동기 작업 |
+| `common` | ERD, API 명세서, 회의록, DB 설계, 협업 문서 |
 
 ## 기본 개발 흐름
 
