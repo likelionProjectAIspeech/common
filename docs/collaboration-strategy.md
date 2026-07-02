@@ -146,9 +146,9 @@ PostgreSQL
 
 | 리포지토리 | 담당자 | 주요 내용 |
 | --- | --- | --- |
-| `presentation-coach-frontend` | 이승현, 김경민 | React Native 모바일 애플리케이션 |
-| `presentation-coach-backend` | 최국진 | FastAPI, AI 분석, 문서 분석, 비동기 작업 |
-| `presentation-coach-common` | 공동 | ERD, API 명세서, 화면 설계서, 회의록, 개인정보 관련 문서 |
+| `frontend` | 이승현, 박경민 | React Native 모바일 애플리케이션 |
+| `backend` | 최국진 | FastAPI, AI 분석, 문서 분석, 비동기 작업 |
+| `common` | 공동 | ERD, API 명세서, 화면 설계서, 회의록, 개인정보 관련 문서 |
 
 ## GitHub 협업 규칙
 
